@@ -23,6 +23,8 @@ Reference:
 
 2) Rebentrost, Patrick, Masoud Mohseni, and Seth Lloyd. "Quantum support vector machine for big data classification." Physical review letters 113.13 (2014): 130503. (The original theoretical paper which doesn't contain the kernel trick.)
 
-If you have any questions, please feel free to contact me. I'm looking forward to hearing from any suggestions for further improvement. :) 
+This repository also contains my PowerPoint for an introduction to quantum programming software, which contains 3 parts:1) elementary quantum algorithms in Quipper; 2) QSVM 3) classical simulation of boson sampling. If you're interested, don't forget to check it out. :P
+
+Anyway, I'm very happy to answer any questions or discuss some possible further improvements. :) 
 
 Jinlong(Darius) Huang
