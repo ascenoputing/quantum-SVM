@@ -1,5 +1,5 @@
 # quantum-SVM
-The quantum circuit version of support vector machine to recognize handwritten 6 and 9 using QuTip.
+The quantum circuit version of support vector machine to recognize handwritten 6 and 9 using python's package QuTip.
 
 Demonstation for results:
 
