@@ -27,4 +27,4 @@ This repository also contains an introduction to quantum algorithms and quantum 
 
 Anyway, I'm very happy to answer any questions or discuss some possible further improvements. :) 
 
-Jinlong(Darius) Huang
+Jin-Long Huang
